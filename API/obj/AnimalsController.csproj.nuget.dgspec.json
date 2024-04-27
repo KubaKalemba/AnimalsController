@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/kuba/RiderProjects/AnimalsController/AnimalsController/AnimalsController.csproj": {}
+  },
+  "projects": {
+    "/Users/kuba/RiderProjects/AnimalsController/AnimalsController/AnimalsController.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kuba/RiderProjects/AnimalsController/AnimalsController/AnimalsController.csproj",
+        "projectName": "AnimalsController",
+        "projectPath": "/Users/kuba/RiderProjects/AnimalsController/AnimalsController/AnimalsController.csproj",
+        "packagesPath": "/Users/kuba/.nuget/packages/",
+        "outputPath": "/Users/kuba/RiderProjects/AnimalsController/AnimalsController/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/kuba/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "SqlConnection": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/8.0.3/libexec/sdk/8.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
