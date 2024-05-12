@@ -4,9 +4,8 @@ public class Program
 {
     public static void Main()
     {
-        string connectionString =
-            "Server=db-mssql16.pjwstk.edu.pl;Database=s26094;User ID=s26094;Password=oracle12";
-        
+        const string connectionString = "Server=db-mssql16.pjwstk.edu.pl;Database=S26094;User ID=s26094;Password=kkkkkkkkkk";
+
         using (SqlConnection connection = new SqlConnection(connectionString))
         {
             try

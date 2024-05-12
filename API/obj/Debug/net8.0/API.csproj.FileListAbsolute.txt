@@ -64,3 +64,4 @@
 /Users/kuba/RiderProjects/AnimalsController/API/obj/Debug/net8.0/API.pdb
 /Users/kuba/RiderProjects/AnimalsController/API/obj/Debug/net8.0/API.genruntimeconfig.cache
 /Users/kuba/RiderProjects/AnimalsController/API/obj/Debug/net8.0/ref/API.dll
+/Users/kuba/RiderProjects/AnimalsController/API/obj/Debug/net8.0/API.sourcelink.json
